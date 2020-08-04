@@ -1,3 +1,6 @@
 [submodule "coingate-php"]
 	path = coingate-php
 	url = https://github.com/jambtc/coingate-php.git
+[submodule "btcpayserver-php-v1"]
+	path = btcpayserver-php-v1
+	url = https://github.com/jambtc/btcpayserver-php-v1.git

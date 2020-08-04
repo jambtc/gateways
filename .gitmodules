@@ -4,3 +4,6 @@
 [submodule "btcpayserver-php-v1"]
 	path = btcpayserver-php-v1
 	url = https://github.com/jambtc/btcpayserver-php-v1.git
+[submodule "bitpay"]
+	path = bitpay
+	url = https://github.com/jambtc/bitpay.git

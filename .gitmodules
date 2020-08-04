@@ -1,0 +1,3 @@
+[submodule "coingate-php"]
+	path = coingate-php
+	url = https://github.com/jambtc/coingate-php.git
